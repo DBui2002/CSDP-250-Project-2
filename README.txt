@@ -1,0 +1,2 @@
+The Purpose of the project is to convert an inputted double into a binary double, separating the input into a pure int and pure decimal, 
+converting each individually using a stack and queue, then adding the two back together to make the final binary double.
