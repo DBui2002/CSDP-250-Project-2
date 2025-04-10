@@ -1,3 +1,10 @@
+/*
+* Dang Thong Bu
+* CSDP 250
+* Prof Stone
+* 4/9/25
+*/
+
 #include "Queue.h"
 #include <iostream>
 #include <iomanip>
